@@ -76,7 +76,7 @@ npm i nodemon dotenv bcrypt -D
 ## Capturas de Pantalla Actividad 1
 
 <p align="center">
-  <img src="./Pruebas/p-1.png" width="2000" alt="Get All Data">
+  <img src="./wp11358860-motomami-wallpapers" width="2000" alt="Get All Data">
   
   <img src="./Pruebas/p-2.png" width="2000" alt="Get One By ID">
   
