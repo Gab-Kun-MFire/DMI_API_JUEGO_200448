@@ -76,19 +76,18 @@ npm i nodemon dotenv bcrypt -D
 ## Capturas de Pantalla Actividad 1
 
 <p align="center">
-  <img src="./wp11358860-motomami-wallpapers.jpg" width="2000" alt="Get All Data">
+  <img src="./uno.png" width="2000" alt="Get All Data">
   
-  <img src="./Pruebas/p-2.png" width="2000" alt="Get One By ID">
+  <img src="./dos.png" width="2000" alt="Get One By ID">
   
-  <img src="./Pruebas/p-3.png" width="2000" alt="Get One By Email">
+  <img src="./tres.png" width="2000" alt="Get One By Email">
   
-  <img src="./Pruebas/p-4.png" width="2000" alt="Create Player">
+  <img src="./cuatro.png" width="2000" alt="Create Player">
   
-  <img src="./Pruebas/p-5.png" width="2000" alt="Put Player">
+  <img src="./cinco.png" width="2000" alt="Put Player">
   
-  <img src="./Pruebas/p-6.png" width="2000" alt="Delete Player">
+  <img src="./seis.png" width="2000" alt="Delete Player">
   
-  <img src="./Pruebas/p-7.png" width="2000" alt="Patch Player">
  
 </p>
 
