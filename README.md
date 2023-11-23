@@ -12,7 +12,7 @@
 - **Grupo:** A
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
-# Desarrollo Backend del Videojuego Api Rest"
+# Practica 15: Implementacion de rutas y middlewares para el jugador"
 
 ### Se crearón dos carpetas para el proyecto:
 
